@@ -1,6 +1,7 @@
 # Notes App - Minggu 7 PAM
 
-**Nama** : Louis Hutabarat 
+**Nama** : Louis Hutabarat
+
 **NIM** : 123140052 
 
 Aplikasi mobile multiplatform yang dibangun menggunakan **Kotlin Multiplatform (KMP)** dan **Jetpack Compose Multiplatform**. Aplikasi ini mencakup fitur catatan, berita teknologi, pengaturan, dan profil pengguna.
