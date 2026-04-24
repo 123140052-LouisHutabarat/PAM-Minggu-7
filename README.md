@@ -8,6 +8,9 @@ Aplikasi mobile multiplatform yang dibangun menggunakan **Kotlin Multiplatform (
 
 ---
 
+##  Link Tambahan
+* **Link Google Drive (APK/Dokumentasi)**: [Klik di sini untuk mengakses](https://drive.google.com/drive/folders/1A2lBZcdC_pJts3uBErPaDCw8ms_HZ_VJ?usp=sharing)
+
 ## Fitur
 
 ### Notes (CRUD)
@@ -52,3 +55,27 @@ Aplikasi mobile multiplatform yang dibangun menggunakan **Kotlin Multiplatform (
 | Kotlinx DateTime 0.5.0 | Pengelolaan timestamp |
 | Kamel Image 0.9.4 | Async image loading |
 | Navigation Compose | Navigasi antar layar |
+
+---
+
+## Screenshots
+
+### News
+| List Berita | Tidak Ada Koneksi |
+|---|---|
+| ![News List](https://github.com/user-attachments/assets/8eeb01f9-bebe-44f1-85d9-b6c74b76a6d9) | ![News Error](https://github.com/user-attachments/assets/00cc9cad-d761-419c-bb1c-23d12053e94e) |
+
+### Notes
+| Daftar Catatan |
+|---|
+| ![Notes](https://github.com/user-attachments/assets/6530be0d-ee3e-4047-bb0c-e78d37fb178f) |
+
+### Favorites
+| Catatan Favorit |
+|---|
+| ![Favorites](https://github.com/user-attachments/assets/0f4d629e-0e0c-4f91-ac6a-f574deee636b) |
+
+### Settings
+| Light Mode | Dark Mode |
+|---|---|
+| ![Settings Light](https://github.com/user-attachments/assets/201d47d8-7963-4987-aeb5-5096eaf3af81) | ![Settings Dark](https://github.com/user-attachments/assets/00d28f5e-65c2-4a3c-bdc7-f27ff481a167) |
