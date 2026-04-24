@@ -9,7 +9,7 @@ Aplikasi mobile multiplatform yang dibangun menggunakan **Kotlin Multiplatform (
 ---
 
 ##  Link Tambahan
-* **Link Google Drive (APK/Dokumentasi)**: [Klik di sini untuk mengakses]([https://drive.google.com/drive/folders/1A2lBZcdC_pJts3uBErPaDCw8ms_HZ_VJ?usp=sharing](https://drive.google.com/drive/folders/1ADL2QPdpXAQg8n_20aTaH4GZ79rqYC3b?usp=sharing))
+* **Link Google Drive (APK/Dokumentasi)**: [Klik di sini untuk mengakses](https://drive.google.com/file/d/1l-8AlP-QC-w6GIcnVx1xkKRMRdDJxKzE/view?usp=sharing)
 
 ## Fitur
 
