@@ -1,4 +1,3 @@
-// File ini ada di: androidMain/kotlin/org/example/project/MainActivity.kt
 package org.example.project
 
 import android.os.Bundle
@@ -13,8 +12,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContent {
-            // Kirim DatabaseDriverFactory ke App()
-            // DatabaseDriverFactory butuh Context untuk buat SQLite driver di Android
+            
             App(driverFactory = DatabaseDriverFactory(applicationContext))
         }
     }
